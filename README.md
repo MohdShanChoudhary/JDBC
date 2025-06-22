@@ -55,7 +55,7 @@ INSERT INTO data (name, id, num) VALUES
 ('Ali', 2, 9123455789),
 ('Zara', 3, 9988775655);
 
-Step 6: Verify the Data
+## Step 6: Verify the Data
 
 SELECT * FROM data;
 
