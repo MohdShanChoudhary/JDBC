@@ -51,9 +51,9 @@ num: Stores a number (e.g., phone number)
 ## Step 5: (Optional) Insert Sample Data
 
 INSERT INTO data (name, id, num) VALUES 
-('Shan', 1, 9876543210),
-('Ali', 2, 9123456789),
-('Zara', 3, 9988776655);
+('Shan', 1, 9876545210),
+('Ali', 2, 9123455789),
+('Zara', 3, 9988775655);
 
 Step 6: Verify the Data
 
@@ -64,7 +64,7 @@ Expected Output:
 ## +-------+----+------------+
 ## | name  | id |    num     |
 ## +-------+----+------------+
-## | Shan  |  1 | 9876543210 |
-## | Ali   |  2 | 9123456789 |
-## | Zara  |  3 | 9988776655 |
+## | Shan  |  1 | 9876545210 |
+## | Ali   |  2 | 9123455789 |
+## | Zara  |  3 | 9988775655 |
 ## +-------+----+------------+
